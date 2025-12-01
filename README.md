@@ -1,22 +1,18 @@
 # Pseudocode Exercise 3 Loop
 
----
+## Exercises
 
-## Exercise 1
+1. Ask the user to enter 5 numbers.
+Count how many of them are positive.
 
-Find sum of digits from number.
+        Input: 5483
+        Output: 20
 
-    Input: 5483
-    Output: 20
+2. Input three numbers.
+Output the largest.
 
----
-
-## Exercise 2
-
-Find the factorial of a number
-
-    Input: 5
-    Output: 120
+        Input: 5
+        Output: 120
 
 ---
 
